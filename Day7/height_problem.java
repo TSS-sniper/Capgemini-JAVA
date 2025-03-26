@@ -9,8 +9,7 @@ public class height_problem {
 		int h[]= {180,165,170};
 		arrange_height(names,h);
 	}
-	
-	public static void arrange_height(String [] names, int [] h) {
+	 static void arrange_height(String [] names, int [] h) {
 		for (int i = 0; i < h.length-1; i++) {
 			boolean swap=false;
 			for (int j = 0; j < h.length-i-1; j++) {
