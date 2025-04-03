@@ -1,3 +1,4 @@
+
 package Day12.generalization;
 
 import java.util.Scanner;
@@ -54,4 +55,4 @@ public class Ola {
 
 	}
 }
-//tanmay connected
+
