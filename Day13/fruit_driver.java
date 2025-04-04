@@ -6,7 +6,7 @@ package Day13;
 
 public class fruit_driver {
 	public static void main(String[] args) {
-		String t = "test";
+		//String t = "test";
 		fruit f = new fruit("Mango",25,"Summer","Portugal","Yellow");
 		fruit f2 = new fruit("Mango",25,"Summer","Portugal","Yellow");
 		fruit f1 = new fruit("Tomato",10,"All-year","Portugal","Red");
@@ -14,7 +14,7 @@ public class fruit_driver {
 		System.out.println("");
 		System.out.println(f.equals(f1));
 		System.out.println(f.equals(f2));
-		System.out.println(f.equals(t)); //unrelated to fruit
+		//System.out.println(f.equals(t)); //unrelated to fruit
 	}
 
 }
