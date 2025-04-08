@@ -1,6 +1,6 @@
 package Day17.Exception;
 
-import java.io.FileInputStream;
+//import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
 //Checked Exception:
@@ -25,7 +25,7 @@ public class checked_exception {
 	
 	
 	public static void m2() throws FileNotFoundException {
-		FileInputStream fileInputStream = new FileInputStream("file.txt");  //exception is declared and not solved/handled
+		//FileInputStream fileInputStream = new FileInputStream("file.txt");  //exception is declared and not solved/handled
 	}
 	
 

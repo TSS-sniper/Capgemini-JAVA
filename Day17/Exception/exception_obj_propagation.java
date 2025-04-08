@@ -1,6 +1,6 @@
 package Day17.Exception;
 
-import java.io.FileInputStream;
+//import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
 public class exception_obj_propagation {
@@ -14,7 +14,7 @@ public class exception_obj_propagation {
 	}
 
 	public static void m2() throws FileNotFoundException {
-		FileInputStream fileInputStream = new FileInputStream("file.txt"); // exception is declared and not
+		//FileInputStream fileInputStream = new FileInputStream("file.txt"); // exception is declared and not
 																			// solved/handled
 	}
 
