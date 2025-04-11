@@ -25,6 +25,8 @@ public class Linked_List_Driver {
 		System.out.println(list);
 		list.removeAt(4);
 		System.out.println(list);
+		System.out.println(list.contains(100));
+		System.out.println(list.get(3));
 	}
 
 }
