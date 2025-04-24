@@ -1,5 +1,7 @@
 package extra;
 
+//import java.util.ArrayList;
+
 public class Nestedclass {
 	int a = 10;;
 //    class Demo{
@@ -32,6 +34,7 @@ public class Nestedclass {
 		Nestedclass p = new Nestedclass();
 		System.out.println(p.a);
 		System.out.println(Demo.a);
+		//ArrayList<Integer> n=new ArrayList<>(); 
 		
 
 	}
