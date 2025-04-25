@@ -1,4 +1,4 @@
-package Day15.interface_after_Java9;
+package Day15;
 
 
 public class pvt_method_in_interface implements P1 {

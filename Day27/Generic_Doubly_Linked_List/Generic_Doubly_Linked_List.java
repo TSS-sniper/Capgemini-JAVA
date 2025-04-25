@@ -1,6 +1,6 @@
 package Day27.Generic_Doubly_Linked_List;
 
-import Day19.DS_LinkedList.ListOutOfBoundsException;
+import Day19.ListOutOfBoundsException;
 
 public class Generic_Doubly_Linked_List<T> {
 	Node<T> head;

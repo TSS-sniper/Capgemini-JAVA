@@ -1,4 +1,4 @@
-package Day19.DS_LinkedList;
+package Day19;
 
 public class ListOutOfBoundsException extends IndexOutOfBoundsException{
 

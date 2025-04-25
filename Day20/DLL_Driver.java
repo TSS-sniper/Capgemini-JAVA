@@ -1,4 +1,4 @@
-package Day20.DS_Doubly_LinkedList;
+package Day20;
 
 public class DLL_Driver {
 	public static void main(String[] args) {
