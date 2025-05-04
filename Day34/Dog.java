@@ -1,4 +1,4 @@
-package Day34_PART2;
+package Day34;
 
 public class Dog {
 	@VeryImp(times =3)

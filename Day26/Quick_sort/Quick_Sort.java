@@ -8,6 +8,7 @@ public class Quick_Sort {
 		int arr[] = { 6, 7, 4, 9,10,5, 2, 8 };
 		quickSort(arr, 0, arr.length - 1);
 		System.out.println(Arrays.toString(arr));
+		
 	}
 
 	public static void quickSort(int arr[], int start, int end) {

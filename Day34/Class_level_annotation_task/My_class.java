@@ -1,4 +1,4 @@
-package Day34_PART2.Class_level_annotation_task;
+package Day34.Class_level_annotation_task;
 
 @HighlyImptForClass(val =3)
 public class My_class {

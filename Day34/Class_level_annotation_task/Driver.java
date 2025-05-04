@@ -1,4 +1,4 @@
-package Day34_PART2.Class_level_annotation_task;
+package Day34.Class_level_annotation_task;
 
 //import java.lang.annotation.Annotation;
 import java.lang.reflect.InvocationTargetException;
